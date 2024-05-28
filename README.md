@@ -1,11 +1,13 @@
 # edge-optimized-ship-detection
 Edge-Optimized Ship Detection uses YOLO and RCNN models to detect ships in port areas from aerial images. Optimized for edge devices, it ensures real-time performance with reduced latency. This repository includes data preprocessing, model training, and deployment scripts.
 
+This project tackles the real-world challenge of detecting ships in port areas using satellite imagery. Leveraging deep learning models like RCNN, the system is optimized for deployment on edge devices, enabling real-time image processing directly on the satellite. This approach ensures immediate detection and identification of ships, reducing the latency and bandwidth required for transmitting large amounts of data back to Earth. The project includes comprehensive data preprocessing, model training, and deployment scripts tailored for edge computing environments.
+
 
 
 # SHIP DETECTION
 
-This project focuses on detecting ships in aerial images using deep learning models. We utilized Mask R-CNN for high accuracy and real-time performance. Below is a detailed explanation of the key components and processes involved in this project.
+This focuses on detecting ships in aerial images using deep learning models. We utilized Mask R-CNN for high accuracy and real-time performance. Below is a detailed explanation of the key components and processes involved in this project.
 
 ## Contents
 
